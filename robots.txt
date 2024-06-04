@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sandult.github.io/sitemap.html
+Sitemap: https://sandult.github.io/app/sitemap.html
+Sitemap: https://sandult.github.io/assets/sitemap.html
+Sitemap: https://sandult.github.io/includes/sitemap.html
+Sitemap: https://sandult.github.io/src/sitemap.html
